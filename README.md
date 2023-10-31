@@ -1,2 +1,2 @@
 # Coffee-site
-A Basic Caffe site built using HTML and CSS.
+A Basic Static Cafe site built using HTML and CSS.
